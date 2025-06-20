@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# IDE directories
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Dependency directory
+__pypackages__/
+
+# Byte-compiled and C extensions
+*.so
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Settings file (user-specific)
+settings.json
+
+# Ignore all text files except requirements.txt
+*.txt
+!requirements.txt

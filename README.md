@@ -3,6 +3,10 @@
 A lightweight desktop app for downloading and managing YouTube video transcripts.  
 Built with Python and [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter), featuring a clean dark-mode UI.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e05e7234-e1a0-4886-b041-6617f340997a" />
+</p>
+
 ---
 
 ## Features

@@ -58,5 +58,5 @@ Internet connection (required to fetch transcripts)
 MIT License. See the LICENSE file.
 
 ## Credits
-YouTube Transcript API
-CustomTkinter
+- YouTube Transcript API
+- CustomTkinter
